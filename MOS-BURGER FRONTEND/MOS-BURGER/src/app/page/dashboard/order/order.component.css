@@ -1,0 +1,23 @@
+
+input[type="text"] {
+    transition: all 0.3s ease;
+  }
+  
+  input[type="text"]:focus {
+    box-shadow: 0 0 0 2px rgba(178, 34, 34, 0.5);
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  th,
+  td {
+    padding: 12px 16px;
+  }
+  
+  tr:hover {
+    background-color: #2d3748;
+    color: white ;
+  }
