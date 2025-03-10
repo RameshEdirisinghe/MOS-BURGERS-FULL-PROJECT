@@ -112,11 +112,14 @@ Here are some screenshots of the application:
 ### Login Page
 ![Home Page](Mos-login.png)
 
-### Dashboard Page
-![Image Upload](screenshots/upload.png)
+### PlaceOrder Page
+![Image Upload](mos-placeorder.png)
 
-### User Authentication
-![Login Page](screenshots/login.png)
+### Dashboard Page
+![Login Page](Dashboard.png)
+
+### Customer Management
+![Login Page](customer.png)
 
 ---
 
