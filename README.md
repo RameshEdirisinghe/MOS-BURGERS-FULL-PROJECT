@@ -109,10 +109,10 @@ Welcome to the **MOS Burger Full Stack Project**! This is a full-stack web appli
 
 Here are some screenshots of the application:
 
-### Home Page
-![Home Page](screenshots/home.png)
+### Login Page
+![Home Page](Mos-login.png)
 
-### Image Upload Feature
+### Dashboard Page
 ![Image Upload](screenshots/upload.png)
 
 ### User Authentication
